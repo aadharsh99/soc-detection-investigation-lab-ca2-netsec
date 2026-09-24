@@ -102,6 +102,3 @@ The complete report text, reorganised into Markdown, is available in [`docs/assi
 
 ## Author
 Aadharsh Anbuchezhian
-
-**Aadharsh Anbuchezhian**  
-Cybersecurity Graduate | SOC | Penetration Testing | AWS | Dubli
