@@ -101,6 +101,7 @@ All activity described here is intended for an isolated, authorised lab environm
 The complete report text, reorganised into Markdown, is available in [`docs/assignment-report.md`](docs/assignment-report.md).
 
 ## Author
+Aadharsh Anbuchezhian
 
 **Aadharsh Anbuchezhian**  
-Cybersecurity Graduate | SOC | Penetration Testing | AWS | Dublin
+Cybersecurity Graduate | SOC | Penetration Testing | AWS | Dubli
